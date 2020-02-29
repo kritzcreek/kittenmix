@@ -1,0 +1,4 @@
+.stack-work/
+kittenmix.cabal
+*~
+stack.yaml.lock
